@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "680890366051",
+    "project_id": "assignment6udemy",
+    "storage_bucket": "assignment6udemy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680890366051:android:a2b3755c8de435e0eaa056",
+        "android_client_info": {
+          "package_name": "com.example.assignment6adv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680890366051-jjslft9efp7b5gnu4orm7eb930mr7asn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assignment6adv",
+            "certificate_hash": "aa6a53b638f1aed2dadb8299bc918e438517b593"
+          }
+        },
+        {
+          "client_id": "680890366051-ufia74186qsisf3nd6ru24ja2chjkja8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_8XIAByv6WjCt59bYa7ZO6ffetT9R-Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680890366051-ufia74186qsisf3nd6ru24ja2chjkja8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
