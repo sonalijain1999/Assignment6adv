@@ -1,18 +1,10 @@
 # assignment6adv
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/60497488/145015797-0512b63d-41e4-4130-9c11-abd6ceeafdd8.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Assignment6adv" 
-"# Assignment6adv" 
+https://user-images.githubusercontent.com/60497488/145015835-edfc719d-8a32-4f84-82b0-12343c02faff.mp4
+
