@@ -1,10 +1,9 @@
 
 
 import 'dart:io';
+import 'package:assignment6adv/FirebaseStorage/Widgets/button_widget.dart';
 import 'package:path/path.dart';
-import 'package:flutter/services.dart';
-import 'package:assignment6adv/Widgets/button_widget.dart';
-import 'package:assignment6adv/api.dart';
+import 'package:assignment6adv/FirebaseStorage/api.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';

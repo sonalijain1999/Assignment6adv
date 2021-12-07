@@ -1,10 +1,10 @@
-import 'package:assignment6adv/home.dart';
+import 'package:assignment6adv/RealtimeDatabase/SendData.dart';
+import 'package:assignment6adv/FirebaseStorage/home.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
-
   runApp( MaterialApp(
     darkTheme: ThemeData.dark(),
     home:  MyApp(),
@@ -24,7 +24,7 @@ class _State extends State<MyApp> {
         appBar:  AppBar(
           title: const Text('Firebase database'),
         ),
-        body: Home()
+        body: const SendData()
       ) ,
     );
   }
